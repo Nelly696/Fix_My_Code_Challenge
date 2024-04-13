@@ -1,6 +1,4 @@
-#!/usr/bin/python3
-
-class square():
+ass square():
     
     width = 0
     height = 0
